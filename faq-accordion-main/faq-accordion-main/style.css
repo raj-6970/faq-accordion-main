@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+  border: 2px solid ;
+  padding: 0;
+  margin: -14px;
+  width: auto;
+  height: 98vh;   
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.card{
+   width: 45rem;
+   height: 30rem;
+   border: 2px solid;
+   z-index: 0;
+   ma
+}
